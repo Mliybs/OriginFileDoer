@@ -1,0 +1,2 @@
+/media/mliybs/儿童邪典/GitHub/ScriptLearn/OriginFileDoer/bin/Debug/net7.0/linux-x64/publish/OriginFileDoer.pdb
+/media/mliybs/儿童邪典/GitHub/ScriptLearn/OriginFileDoer/bin/Debug/net7.0/linux-x64/publish/OriginFileDoer

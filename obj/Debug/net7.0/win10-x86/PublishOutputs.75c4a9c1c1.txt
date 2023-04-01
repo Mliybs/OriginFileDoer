@@ -1,0 +1,2 @@
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer-1/bin/Debug/net7.0/win10-x86/publish/OriginFileDoer.pdb
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer-1/bin/Debug/net7.0/win10-x86/publish/OriginFileDoer.exe

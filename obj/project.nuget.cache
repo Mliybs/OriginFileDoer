@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/0nSjpf8WTlsq66IoispGtvSp7344six7VueHe0OT2aV4lG9Rdyytzj75S5hrbgITy/gqrQEiZAbYCFoMGXRQ==",
+  "success": true,
+  "projectFilePath": "/media/mliybs/儿童邪典/GitHub/OriginFileDoer-1/OriginFileDoer.csproj",
+  "expectedPackageFiles": [
+    "/home/mliybs/.nuget/packages/microsoft.netcore.app.runtime.win-x86/7.0.4/microsoft.netcore.app.runtime.win-x86.7.0.4.nupkg.sha512",
+    "/home/mliybs/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x86/7.0.4/microsoft.aspnetcore.app.runtime.win-x86.7.0.4.nupkg.sha512",
+    "/home/mliybs/.nuget/packages/microsoft.netcore.app.host.win-x86/7.0.4/microsoft.netcore.app.host.win-x86.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
