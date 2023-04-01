@@ -1,0 +1,15 @@
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/bin/Debug/net7.0/OriginFileDoer
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/bin/Debug/net7.0/OriginFileDoer.deps.json
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/bin/Debug/net7.0/OriginFileDoer.runtimeconfig.json
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/bin/Debug/net7.0/OriginFileDoer.dll
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/bin/Debug/net7.0/OriginFileDoer.pdb
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/obj/Debug/net7.0/OriginFileDoer.csproj.AssemblyReference.cache
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/obj/Debug/net7.0/OriginFileDoer.GeneratedMSBuildEditorConfig.editorconfig
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/obj/Debug/net7.0/OriginFileDoer.AssemblyInfoInputs.cache
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/obj/Debug/net7.0/OriginFileDoer.AssemblyInfo.cs
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/obj/Debug/net7.0/OriginFileDoer.csproj.CoreCompileInputs.cache
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/obj/Debug/net7.0/OriginFileDoer.dll
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/obj/Debug/net7.0/refint/OriginFileDoer.dll
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/obj/Debug/net7.0/OriginFileDoer.pdb
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/obj/Debug/net7.0/OriginFileDoer.genruntimeconfig.cache
+/media/mliybs/儿童邪典/GitHub/OriginFileDoer/obj/Debug/net7.0/ref/OriginFileDoer.dll
